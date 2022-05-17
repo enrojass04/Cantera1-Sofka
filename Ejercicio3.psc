@@ -1,10 +1,9 @@
+//Realizar un programa el cual solicite su nombre y apellidos, 
+//también debe capturar nombre y apellidos de su padre y madre. 
+//Al finalizar debe imprimir en pantalla el siguiente mensaje 
+//"Yo [Nombre Completo], soy hijo de [Nombre de la Madre] 
+//y [Nombre del Padre].
 Algoritmo Ejercicio3
-	
-	//Realizar un programa el cual solicite su nombre y apellidos, 
-	//también debe capturar nombre y apellidos de su padre y madre. 
-	//Al finalizar debe imprimir en pantalla el siguiente mensaje "Yo [Nombre Completo], 
-	//soy hijo de [Nombre de la Madre] y [Nombre del Padre].
-	
 	Definir nombre Como Caracter;
 	Definir apellidos Como Caracter;
 	Definir nombrePapa Como Caracter;
@@ -30,6 +29,5 @@ Algoritmo Ejercicio3
 	Limpiar Pantalla;
 	
 	Escribir "Yo ", nombre, " " , apellidos;
-	Escribir "soy hijo de ",nombreMama, " y " ,nombrePapa,".";
-	
+	Escribir "soy hijo de ",nombreMama, " y " ,nombrePapa,".";	
 FinAlgoritmo

@@ -1,7 +1,5 @@
-Algoritmo Ejercicio1
-	
-	//Realizar un programa el cual solicite su nombre y apellidos.
-	
+//Realizar un programa el cual solicite su nombre y apellidos.
+Algoritmo Ejercicio1	
 	Definir nombre Como Caracter;
 	Definir apellidos Como Caracter;
 	
@@ -9,6 +7,5 @@ Algoritmo Ejercicio1
 	Leer nombre;
 	
 	Escribir "Escribe tus apellidos";
-	Leer apellidos;
-	
+	Leer apellidos;	
 FinAlgoritmo
