@@ -13,7 +13,7 @@ Proceso Ejercicio6
 	
 	moto1 <- "Yamaha";
 	moto2 <- "Suzuki";
-	moto3 <- "Yamaha";
+	moto3 <- "Honda";
 	
 	Escribir "Elija una opción";
 	Escribir "1. Registrar Entrada";

@@ -30,7 +30,7 @@ Proceso Ejercicio9
 		2:
 			Escribir "Ingrese el ancho del triángulo" Sin Saltar;
 			Leer ancho;
-			Escribir "Ingrese la altura del trapecio: " Sin Saltar;
+			Escribir "Ingrese la altura del triángulo: " Sin Saltar;
 			Leer alto;
 			areaTriangulo <- (ancho*alto)/2;
 			Escribir "El área del triángulo es: ", areaTriangulo;

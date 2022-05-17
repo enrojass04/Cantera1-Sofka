@@ -14,7 +14,7 @@ Proceso Ejercicio8
 	ventas <- 0;
 	
 	Escribir "Elija una opción";
-	Escribir "1. Resgistar pedidos";
+	Escribir "1. Registar pedidos";
 	Escribir "2. Consultar tortas disponibles";
 	Escribir "3. Registrar ventas diarias";
 	

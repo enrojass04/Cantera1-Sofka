@@ -44,7 +44,7 @@ Proceso Ejercicio10
 				Escribir "¡Lo sentimos, no tiene ese balance en su cuenta!";
 				Escribir "Su balance es de: ", total;
 			SiNo
-				Escribir "¡Dinero retiraro exitosamente!";
+				Escribir "¡Dinero retirado exitosamente!";
 				total <- total - retiro;
 				Escribir "Ahora su balance total es de: ", total;
 			FinSi

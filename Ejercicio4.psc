@@ -1,11 +1,3 @@
-//La video tienda que presta sus servicios de alquiler de películas a 
-//los usuarios del barrio el Porvenir, requiere de una aplicación que 
-//permita registrar el alquiler de las películas que adquieren sus usuarios. 
-//Para cada usuario se debe permitir la opción de alquilar película, 
-//consultar películas disponibles y recibir película en la video tienda con 
-//la opción de realizar anotaciones sobre estas si se llegan a presentar 
-//daños u otra novedad sobre la película.
-
 Proceso Ejercicio4
 	Definir opcion, opcionPelicula, opcionEntrega, opcionAnotacion Como Entero;
 	Definir pelicula1, pelicula2, pelicula3, nota Como Caracter;	
